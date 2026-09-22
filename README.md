@@ -38,3 +38,4 @@ I’m exploring AI and automation alongside full-stack engineering, with an inte
 ## Connect
 
 - [GitHub](https://github.com/Samiyakhan17)
+- [LinkedIn](https://www.linkedin.com/in/samiya-khan-520244348)
